@@ -67,7 +67,7 @@ namespace Actividad_Integradora_2_Problema_3
             {
                 for (int x = 0; x < length - i - 1; x++)
                 {
-                    if (precio[x] > precio[x + 1])
+                    if (precio[x] < precio[x + 1])
                     {
                         double auxPrecio;
                         auxPrecio = precio[x];
