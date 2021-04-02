@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+/// <summary>
+/// Lenguaje de programacion III
+/// Autor: Rene Gonzalez Rodriguez
+/// Maestro: Aarón I. Salazar
+/// </summary>
 
 namespace Actividad_Integradora_2_Problema_3
 {
